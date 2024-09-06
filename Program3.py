@@ -56,3 +56,8 @@ print(f"I am looking for a job with a salary of {lower}-{upper} dollars per mont
 x = input("X val: ")
 y = input("Y val: ")
 
+print(f"{x} + {y} = {x + y}")
+print(f"{x} - {y} = {x - y}")
+print(f"{x} * {y} = {x * y}")
+print(f"{x} / {y} = {x / y}")
+
